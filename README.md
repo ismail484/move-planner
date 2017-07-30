@@ -1,9 +1,9 @@
 
-# Project: ItemCatalog - [Mohamed Ismail]
+# Project: A moving planner App - [Mohamed Ismail]
 
 # Description
 
-''' A moving planner App '''
+-First open [A moving planner App](https://ismail484.github.io/move-planner/) and search your desired locations .
 
 # Required Libraries and Dependencies
 
